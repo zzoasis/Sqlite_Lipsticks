@@ -4,6 +4,7 @@
 ## Разработка многооконного мобильного приложения для Android с использованием базы данных SQLite для предметной области "Помада"
 ## До добавление базы данных
 ![Снимок](https://github.com/zzoasis/Sqlite_Lipsticks/blob/master/_1.JPG)
+![Снимок](https://github.com/zzoasis/Sqlite_Lipsticks/blob/master/_16.JPG)
 ## Добавление помад/После добавления
 ![Снимок](https://github.com/zzoasis/Sqlite_Lipsticks/blob/master/_2.JPG)
 ![Снимок](https://github.com/zzoasis/Sqlite_Lipsticks/blob/master/_6.JPG)
