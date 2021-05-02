@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sqlite_Lipsticks</string>
+    <string name="no_data">Нет данных</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="add">Добавить</string>
+    <string name="price">Цена</string>
+    <string name="company">Название компании</string>
+    <string name="name">Название помады</string>
+    <string name="delete">Удалить</string>
+    <string name="update">Обновить</string>
+    <string name="price2">Цена</string>
+    <string name="company2">Название компании</string>
+    <string name="name2">Название помады</string>
+    <string name="deleteall">Удалить все</string>
+    <string name="lipstick_id">1</string>
+    <string name="name_lipstick">Name Lipstick</string>
+    <string name="company_lipstick">Company</string>
+    <string name="lipstick_price">20</string>
+</resources>
